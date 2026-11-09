@@ -1,0 +1,2 @@
+# shazzy
+a website techecnology
